@@ -1,0 +1,233 @@
+.container{
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+color: white;
+background: #000000;
+}
+
+.signup header{
+    position: absolute;
+width: 600px;
+height: 144px;
+left: 232px;
+top: 154px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+#fname{
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 232px;
+    top: 282px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    
+}
+
+#mail{
+    position: absolute;
+width: 60px;
+height: 29px;
+left: 232px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: white;
+}
+
+#pass{
+    position: absolute;
+width: 109px;
+height: 29px;
+left: 232px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: white;
+
+}
+
+#cpass{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 232px;
+    top: 500px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: white;
+    
+}
+
+#da{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 232px;
+    top: 574px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: white;
+     
+}
+
+#radio1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 232px;
+top: 656px;
+
+border: 1px solid white;
+border-radius: 1000px;
+}
+
+#stu{
+    
+position: absolute;
+width: 244px;
+height: 29px;
+left: 262px;
+top: 652px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: white;
+}
+
+#radio2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 413px;
+top: 656px;
+
+border: 1px solid white;
+border-radius: 1000px;
+}
+
+#emp{
+    position: absolute;
+width: 244px;
+height: 29px;
+left: 439px;
+top: 652px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#bo{
+    box-sizing: border-box;
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 232px;
+top: 722px;
+
+border: 1px solid #FFFFFF;
+
+}
+
+#terms{
+    
+    position: absolute;
+    width: 430px;
+    height: 29px;
+    left: 262px;
+    top: 690px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+
+}
+/* #sig{
+    position: absolute;
+width: 226px;
+height: 58px;
+left: 232px;
+top: 820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 29px;
+
+color: #000000;
+} */
+
+hr{
+    background-color: white;
+}
+
